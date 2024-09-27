@@ -1,5 +1,7 @@
 # NUR-E-MUDDASSIR-TANIM
 MY PERSONAL REPOSITORY
+
+
 <h1 align="center">Hi,I'm NUR E MUDDASSIR TANIM</h1>
 <h3 align="center">A passionate Problem Solver.</h3>
 
@@ -9,9 +11,9 @@ MY PERSONAL REPOSITORY
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/nmtanim4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nmtanim4/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nuretanim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nuretanim/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/codeforces.com/profile/_tanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces.com/profile/_tanim" height="30" width="40" /></a>
+<a href="https://fb.com/nmtanim4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nmtanim4" height="30" width="40" /></a>
+<a href="https://instagram.com/nuretanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuretanim" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/_tanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_tanim" height="30" width="40" /></a>
 <a href="https://discord.gg/tanimm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tanimm_" height="30" width="40" /></a>
 </p>
 
